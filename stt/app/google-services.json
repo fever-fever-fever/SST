@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "162078895660",
+    "project_id": "sttproject-320411",
+    "storage_bucket": "sttproject-320411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162078895660:android:78066e1b1c3404dc416b89",
+        "android_client_info": {
+          "package_name": "com.example.stt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162078895660-bb5uh8jbijbh53p2dgrceva31qdc6jv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7noFtYQG49Eha6mtf4bd-ndKuUiEZlkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162078895660-bb5uh8jbijbh53p2dgrceva31qdc6jv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162078895660:android:f7334e7a47963089416b89",
+        "android_client_info": {
+          "package_name": "com.fever.stt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162078895660-bb5uh8jbijbh53p2dgrceva31qdc6jv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7noFtYQG49Eha6mtf4bd-ndKuUiEZlkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162078895660-bb5uh8jbijbh53p2dgrceva31qdc6jv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
