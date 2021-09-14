@@ -30,6 +30,8 @@ android {
     buildFeatures {
         viewBinding true
     }
+
+
 }
 
 dependencies {
@@ -51,4 +53,18 @@ dependencies {
 
     //cloud storage sdk 추가
     implementation 'com.google.firebase:firebase-storage'
+
+
+
+    implementation 'com.google.android.gms:play-services:9.4.0'
+    implementation 'com.google.android.gms:play-services-appindexing:9.4.0'
+
+    compileOnly 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+
+    implementation 'com.google.cloud:google-cloud-speech:1.27.1'
+    implementation 'io.grpc:grpc-okhttp:1.37.0'
+    implementation 'io.grpc:grpc-protobuf:1.37.0'
+    implementation 'io.grpc:grpc-stub:1.37.0'
+    compileOnly 'org.apache.tomcat:annotations-api:6.0.53'
+
 }
